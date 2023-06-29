@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
 🔭 I’m currently working on Real Time Chat App<br>👯 I’m looking to collaborate on MERN stack and Python Project<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning GO and DevOps<br>💬 Ask me about TypeScript<br>⚡ Fun fact I am an Otaku
 
@@ -20,6 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshit-senpai&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
