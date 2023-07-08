@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Women's Safety App<br>👯 I’m looking to collaborate on MERN stack and Python Project<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning GO and DevOps<br>💬 Ask me about TypeScript<br>⚡ Fun fact I am an Otaku
+🔭 I’m currently working on Women's Safety App<br>👯 I’m looking to collaborate on MERN stack and Python Projects<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning GO and DevOps<br>💬 Ask me about TypeScript<br>⚡ Fun fact I am an Otaku
 
 
 ## 🌐 Socials:
@@ -25,9 +25,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshit-senpai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshit-senpai&icon=4&color=3)](https://visitcount.itsvg.in)
